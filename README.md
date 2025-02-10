@@ -54,4 +54,4 @@ This project is open-source and available under the MIT License.
 ---
 ### 🔗 Connect with Me
 - GitHub: [xaemio](https://github.com/xaemio)
-- LinkedIn: [Your Profile](#)
+- LinkedIn: [Saumya .](www.linkedin.com/in/saumya-a29594284)
