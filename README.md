@@ -42,9 +42,6 @@ This is a simple ball game built using **Pygame** and **NumPy**. The game featur
    python game.py
    ```
 
-## 📷 Screenshots (Optional)
-*Include screenshots or a GIF of gameplay if possible.*
-
 ## 🤝 Contributing
 Feel free to fork the repository and submit pull requests to improve the game!
 
